@@ -1,1 +1,1 @@
-# ECE Projects from OSU
+# ECEN Projects from OSU
