@@ -1,0 +1,3 @@
+I have documented all the changes I did through comments in my code. I will also upload the my own assemby code. The one I used to test the first R-type and U-type instructions. 
+I wrote this code in the provided xor-test so I could compile it using the makefile already provided in the same directory. I commented out the code after verifing the tested instruction worked
+in order to keep the code. Once I had these instructions working, I used the assembly code provided in the testing directotory. I also posted an image of the FPGA implementation.  
